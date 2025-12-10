@@ -59,7 +59,7 @@ const tutors = ref([
       'Mahasiswa Universitas Muhammadiyah Bandung',
       '5 Tahun Pengalaman'
     ],
-    instagram: 'https://instagram.com/_myunus',
+    instagram: 'https://instagram.com/__myunus',
     whatsapp: 'https://wa.me/6285766938541'
   },
 ]);
