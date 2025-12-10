@@ -44,14 +44,14 @@ const tutors = ref([
     experiences: [
       '3+ Tahun Mengajar Privat',
       'Asisten Dosen Matematika',
-      'Spesialis UN/Olimpiade'
+      'Spesialis matematika'
     ],
-    instagram: 'https://instagram.com/naufal',
-    whatsapp: 'https://wa.me/62812345678'
+    instagram: 'https://instagram.com/naufal_rbbni',
+    whatsapp: 'https://wa.me/6285766172275'
   },
   { 
     name: 'Kak M. Yunus', 
-    role: 'Tutor B. Arab', 
+    role: 'Tutor B. Inggris', 
     desc: 'Hafiz Quran yang sabar. Mengajar dengan hati, fokus pada makhrojul huruf tanpa membuat anak merasa tertekan.', 
     image: fotoYunus,
     experiences: [
@@ -59,8 +59,8 @@ const tutors = ref([
       'Mahasiswa Universitas Muhammadiyah Bandung',
       '5 Tahun Pengalaman'
     ],
-    instagram: 'https://instagram.com/yunus',
-    whatsapp: 'https://wa.me/62812345679'
+    instagram: 'https://instagram.com/_myunus',
+    whatsapp: 'https://wa.me/6285766938541'
   },
 ]);
 
